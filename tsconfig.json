@@ -9,7 +9,7 @@
     "noImplicitAny": false
   },
   "files": [
-    "src/ussd-encoder-decoder.ts"
+    "index.ts"
   ],
   "exclude": [
     "node_modules",
