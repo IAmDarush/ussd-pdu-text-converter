@@ -1,5 +1,5 @@
 // see ftp://ftp.unicode.org/Public/MAPPINGS/ETSI/GSM0338.TXT
-///<reference path="typings/index.d.ts"/>
+///<reference path="../typings/index.d.ts"/>
 
 import {stringify} from "querystring";
 let GSM7BIT_DECODE = ['@', '\u00A3', '$', '\u00A5', '\u00E8', '\u00E9',
