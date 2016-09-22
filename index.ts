@@ -1,1 +1,1 @@
-export * from 'src/ussd-encoder-decoder';
+export * from './src/ussd-encoder-decoder';

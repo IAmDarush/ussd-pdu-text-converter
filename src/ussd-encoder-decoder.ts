@@ -1,7 +1,3 @@
-// see ftp://ftp.unicode.org/Public/MAPPINGS/ETSI/GSM0338.TXT
-///<reference path="../typings/index.d.ts"/>
-
-import {stringify} from "querystring";
 let GSM7BIT_DECODE = ['@', '\u00A3', '$', '\u00A5', '\u00E8', '\u00E9',
     '\u00F9', '\u00EC', '\u00F2', '\u00E7', '\n', '\u00D8', '\u00F8', '\r',
     '\u00C5', '\u00E5', '\u0394', '_', '\u03A6', '\u0393', '\u039B', '\u03A9',
