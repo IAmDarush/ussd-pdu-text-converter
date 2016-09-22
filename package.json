@@ -1,6 +1,6 @@
 {
   "name": "ussd-pdu-text-converter",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Convert GSM 7bit USSD from PDU to text and vice versa.",
   "main": "index.js",
   "scripts": {
