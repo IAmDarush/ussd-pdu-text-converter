@@ -1,0 +1,6 @@
+.idea
+**/*.log*
+**/*.js
+**/*.map
+node_modules
+typings
