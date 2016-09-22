@@ -1,19 +1,20 @@
 {
-  "name": "ussd-dongle",
+  "name": "ussd-pdu-text-converter",
   "version": "1.0.0",
-  "description": "",
+  "description": "Convert GSM 7bit USSD from PDU to text and vice versa.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "ssh://intern04@gitblit.midsserver.com:29418/ussd-dongle.git"
+    "url": "https://github.com/motxnew/ussd-pdu-text-converter.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dariush Faqiri",
   "license": "ISC",
   "dependencies": {
     "querystring": "^0.2.0"
-  }
+  },
+  "devDependencies": {}
 }
