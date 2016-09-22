@@ -15,7 +15,7 @@ RequireJS syntax:
 
 ##API
 
-###`decodeAs7bitGSM(pdu:string) : string`
+####`decodeAs7bitGSM(pdu:string) : string`
 To decode a 7-bit GSM USSD PDU to text:
         
     UssdEncoderDecoder.decodeAs7bitGSM('C8329BFD065DDF72363904');
@@ -24,7 +24,7 @@ Output:
     
     Hello World
 
-###`encodeAs7bitGSM(text:string) : string`
+####`encodeAs7bitGSM(text:string) : string`
 
 To encode a text to 7-bit GSM USSD PDU:
 
