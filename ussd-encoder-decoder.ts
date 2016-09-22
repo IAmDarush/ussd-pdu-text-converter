@@ -56,7 +56,7 @@ let Utils = {
     }
 };
 
-export let SMSPDU = {
+export let UssdEncoderDecoder= {
     decodeAs7bitGSM: (hex) => {
         let octetArray = Utils.convertArray(Utils.split(hex, NUMBER_FORMAT.HEX), NUMBER_FORMAT.HEX, NUMBER_FORMAT.BIN);
         // unpack to 7bit
